@@ -6,8 +6,8 @@ EAPI="6"
 inherit autotools git-r3
 
 DESCRIPTION="Tools for OpenStreetMap."
-HOMEPAGE="https://gitlab.com/osm-c-tools/osmctools"
-EGIT_REPO_URI="https://gitlab.com/andrew-aladev/osmctools.git"
+HOMEPAGE="https://github.com/ramunasd/osmctools"
+EGIT_REPO_URI="https://github.com/ramunasd/osmctools.git"
 
 LICENSE="AGPL-3"
 SLOT="0/9999"
